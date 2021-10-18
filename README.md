@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saptarshi-Dey
 - 👀 I’m interested in Calculus
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and Higher Order Differential equations
 - 💞️ I’m looking to collaborate on Node.js
 - 📫 How to reach me saptarshidey.bdm@gmail.com
 
